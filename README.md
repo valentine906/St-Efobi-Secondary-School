@@ -1,2 +1,2 @@
-<h1>HALLOWED GROUND</h1>
-this is jus a Hallowed Ground Template
+<h1>St Archbishop Efobi</h1>
+this is jus a Archbishop Efobi Secondary School Template
